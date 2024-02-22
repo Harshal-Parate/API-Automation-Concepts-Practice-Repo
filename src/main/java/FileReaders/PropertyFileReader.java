@@ -15,8 +15,4 @@ public class PropertyFileReader {
         catch (Exception ignored) {}
         return properties.getProperty(keyWord);
     }
-
-    public static void main(String[] args) {
-        System.out.println(readConfigData("BaseURI"));
-    }
 }
