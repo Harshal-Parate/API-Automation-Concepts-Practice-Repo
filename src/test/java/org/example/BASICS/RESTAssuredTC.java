@@ -1,4 +1,4 @@
-package org.example;
+package org.example.BASICS;
 
 import io.restassured.RestAssured;
 
