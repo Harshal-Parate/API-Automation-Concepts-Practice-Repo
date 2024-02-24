@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2e13629f-8871-4062-9f99-f6a5885c6515" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/testcalss.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/HelloWorld.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/RESTAssuredTC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/BASICS/RESTAssuredTC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/POST/bookingCreation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/POST/bookingCreation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,26 +79,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RESTAssuredTC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.BASICS.RESTAssuredTC" />
-      <module name="APIAutomationRestAssured" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.BASICS.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="testcalss" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="testcalss" />
-      <module name="APIAutomationRestAssured" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="API Automation Rest Assured" />
       <method v="2">
@@ -111,6 +88,33 @@
     <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
       <module name="API Automation Rest Assured" />
       <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/harshalparate/Downloads/API Automation Framework/API TTA1/API-Automation-TTA/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APIAutomationRestAssured" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bookingCreation" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APIAutomationRestAssured" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.POST.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.POST" />
+      <option name="MAIN_CLASS_NAME" value="org.example.POST.bookingCreation" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -136,10 +140,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.bookingCreation.createBooking" />
+        <item itemvalue="TestNG.bookingCreation" />
+        <item itemvalue="TestNG./Users/harshalparate/Downloads/API Automation Framework/API TTA1/API-Automation-TTA/testng.xml" />
         <item itemvalue="Application.JSONFileReader" />
         <item itemvalue="Application.PropertyFileReader" />
-        <item itemvalue="Application.testcalss" />
-        <item itemvalue="Application.RESTAssuredTC" />
       </list>
     </recent_temporary>
   </component>
