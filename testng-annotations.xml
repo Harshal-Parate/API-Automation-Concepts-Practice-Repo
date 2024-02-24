@@ -4,9 +4,14 @@
     <test verbose="2" preserve-order="true"
           name="/Users/harshalparate/Downloads/API Automation Framework/API TTA1/API-Automation-TTA">
         <classes>
-            <class name="org.example.POST.bookingCreation">
+            <class name="Concepts.annotations.Case001">
                 <methods>
-                    <include name="createBooking"/>
+                    <include name="test1"/>
+                </methods>
+            </class>
+            <class name="Concepts.annotations.Case002">
+                <methods>
+                    <exclude name="test1"/>
                 </methods>
             </class>
         </classes>

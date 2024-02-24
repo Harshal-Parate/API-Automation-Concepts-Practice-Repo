@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2e13629f-8871-4062-9f99-f6a5885c6515" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/POST/bookingCreation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/POST/bookingCreation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +37,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "practiceXmlAndAnnotation",
     "last_opened_file_path": "/Users/harshalparate/Downloads/API Automation Framework/API TTA1/API-Automation-TTA/src/main/java/POJOS/Request"
   }
 }]]></component>
@@ -52,33 +51,7 @@
       <recent name="$PROJECT_DIR$/src/test/resources/ConfigData" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.bookingCreation.createBooking">
-    <configuration name="JSONFileReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FileReaders.JSONFileReader" />
-      <module name="APIAutomationRestAssured" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="FileReaders.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PropertyFileReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FileReaders.PropertyFileReader" />
-      <module name="APIAutomationRestAssured" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="FileReaders.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG./Users/harshalparate/Downloads/API Automation Framework/API TTA1/API-Automation-TTA/testng-annotations.xml">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="API Automation Rest Assured" />
       <method v="2">
@@ -88,6 +61,33 @@
     <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
       <module name="API Automation Rest Assured" />
       <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Case001" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APIAutomationRestAssured" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Concepts.annotations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.IntegrationCases" />
+      <option name="MAIN_CLASS_NAME" value="Concepts.annotations.Case001" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/harshalparate/Downloads/API Automation Framework/API TTA1/API-Automation-TTA/testng-annotations.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APIAutomationRestAssured" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng-annotations.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -139,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG./Users/harshalparate/Downloads/API Automation Framework/API TTA1/API-Automation-TTA/testng-annotations.xml" />
+        <item itemvalue="TestNG./Users/harshalparate/Downloads/API Automation Framework/API TTA1/API-Automation-TTA/testng.xml" />
+        <item itemvalue="TestNG.Case001" />
         <item itemvalue="TestNG.bookingCreation.createBooking" />
         <item itemvalue="TestNG.bookingCreation" />
-        <item itemvalue="TestNG./Users/harshalparate/Downloads/API Automation Framework/API TTA1/API-Automation-TTA/testng.xml" />
-        <item itemvalue="Application.JSONFileReader" />
-        <item itemvalue="Application.PropertyFileReader" />
       </list>
     </recent_temporary>
   </component>
