@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2e13629f-8871-4062-9f99-f6a5885c6515" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +37,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "practiceXmlAndAnnotation",
+    "git-widget-placeholder": "keyWordsOfTestNG",
     "last_opened_file_path": "/Users/harshalparate/Downloads/API Automation Framework/API TTA1/API-Automation-TTA/src/main/java/POJOS/Request"
   }
 }]]></component>
@@ -51,7 +51,7 @@
       <recent name="$PROJECT_DIR$/src/test/resources/ConfigData" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG./Users/harshalparate/Downloads/API Automation Framework/API TTA1/API-Automation-TTA/testng-annotations.xml">
+  <component name="RunManager" selected="TestNG.ReadExcelFile.testLoginData">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="API Automation Rest Assured" />
       <method v="2">
@@ -65,16 +65,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Case001" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ReadExcelFile (2)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="APIAutomationRestAssured" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Concepts.annotations.*" />
+          <option name="PATTERN" value="Concepts.DDT.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.example.IntegrationCases" />
-      <option name="MAIN_CLASS_NAME" value="Concepts.annotations.Case001" />
+      <option name="PACKAGE_NAME" value="Concepts.DDT" />
+      <option name="MAIN_CLASS_NAME" value="Concepts.DDT.ReadExcelFile" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -82,36 +82,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="/Users/harshalparate/Downloads/API Automation Framework/API TTA1/API-Automation-TTA/testng-annotations.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="APIAutomationRestAssured" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng-annotations.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="/Users/harshalparate/Downloads/API Automation Framework/API TTA1/API-Automation-TTA/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="APIAutomationRestAssured" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="bookingCreation" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ReadExcelFile (3)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="APIAutomationRestAssured" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.POST.*" />
+          <option name="PATTERN" value="Concepts.DDT.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.example.POST" />
-      <option name="MAIN_CLASS_NAME" value="org.example.POST.bookingCreation" />
+      <option name="PACKAGE_NAME" value="Concepts.DDT" />
+      <option name="MAIN_CLASS_NAME" value="Concepts.DDT.ReadExcelFile" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -119,17 +99,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="bookingCreation.createBooking" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ReadExcelFile (4)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="APIAutomationRestAssured" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.POST.*" />
+          <option name="PATTERN" value="Concepts.DDT.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.example.POST" />
-      <option name="MAIN_CLASS_NAME" value="org.example.POST.bookingCreation" />
-      <option name="METHOD_NAME" value="createBooking" />
+      <option name="PACKAGE_NAME" value="Concepts.DDT" />
+      <option name="MAIN_CLASS_NAME" value="Concepts.DDT.ReadExcelFile" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadExcelFile (5)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APIAutomationRestAssured" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Concepts.DDT.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Concepts.DDT" />
+      <option name="MAIN_CLASS_NAME" value="Concepts.DDT.ReadExcelFile" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadExcelFile.testLoginData" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APIAutomationRestAssured" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Concepts.DDT.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Concepts.DDT" />
+      <option name="MAIN_CLASS_NAME" value="Concepts.DDT.ReadExcelFile" />
+      <option name="METHOD_NAME" value="testLoginData" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -139,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG./Users/harshalparate/Downloads/API Automation Framework/API TTA1/API-Automation-TTA/testng-annotations.xml" />
-        <item itemvalue="TestNG./Users/harshalparate/Downloads/API Automation Framework/API TTA1/API-Automation-TTA/testng.xml" />
-        <item itemvalue="TestNG.Case001" />
-        <item itemvalue="TestNG.bookingCreation.createBooking" />
-        <item itemvalue="TestNG.bookingCreation" />
+        <item itemvalue="TestNG.ReadExcelFile.testLoginData" />
+        <item itemvalue="TestNG.ReadExcelFile (5)" />
+        <item itemvalue="TestNG.ReadExcelFile (4)" />
+        <item itemvalue="TestNG.ReadExcelFile (3)" />
+        <item itemvalue="TestNG.ReadExcelFile (2)" />
       </list>
     </recent_temporary>
   </component>
