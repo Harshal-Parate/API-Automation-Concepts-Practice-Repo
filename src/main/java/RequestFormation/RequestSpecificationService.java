@@ -10,6 +10,9 @@ public class RequestSpecificationService {
                 .setBaseUri(PropertyFileReader.readConfigData("BaseURI"))
                 .setBasePath(BasePath)
                 .setContentType(ContentType.JSON)
+                //.setContentType(ContentType.TEXT)
+                //.setContentType(ContentType.ANY)
+                //.setContentType("*/*")
                 .build();
     }
 }
