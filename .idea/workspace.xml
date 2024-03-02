@@ -6,9 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2e13629f-8871-4062-9f99-f6a5885c6515" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/RequestFormation/RequestSpecificationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/RequestFormation/RequestSpecificationService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Concepts/DDT/ReadExcelFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Concepts/DDT/ReadExcelFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/Rest Full Boker APIs.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/Rest Full Boker APIs.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +38,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "keyWordsOfTestNG",
+    "git-widget-placeholder": "Searlization-Desearlization",
     "last_opened_file_path": "/Users/harshalparate/Downloads/API Automation Framework/API TTA1/API-Automation-TTA/src/main/java/POJOS/Request"
   }
 }]]></component>
@@ -54,7 +52,7 @@
       <recent name="$PROJECT_DIR$/src/test/resources/ConfigData" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.AppVWOLoginTests">
+  <component name="RunManager" selected="TestNG.tests.testPOSTBookingCreation">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="API Automation Rest Assured" />
       <method v="2">
@@ -68,34 +66,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AppVWOLoginTests" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="tests.testPOSTBookingCreation (1)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="APIAutomationRestAssured" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Concepts.DDT.AppVWO.*" />
+          <option name="PATTERN" value="SeriallizationAndDeserelization.GSONImplementationTESTCLASS.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Concepts.DDT.AppVWO" />
-      <option name="MAIN_CLASS_NAME" value="Concepts.DDT.AppVWO.AppVWOLoginTests" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AppVWOLoginTests.test1 (1)" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="APIAutomationRestAssured" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Concepts.DDT.AppVWO.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Concepts.DDT.AppVWO" />
-      <option name="MAIN_CLASS_NAME" value="Concepts.DDT.AppVWO.AppVWOLoginTests" />
-      <option name="METHOD_NAME" value="test1" />
+      <option name="PACKAGE_NAME" value="SeriallizationAndDeserelization.GSONImplementationTESTCLASS" />
+      <option name="MAIN_CLASS_NAME" value="SeriallizationAndDeserelization.GSONImplementationTESTCLASS.tests" />
+      <option name="METHOD_NAME" value="testPOSTBookingCreation" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -103,17 +84,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AppVWOLoginTests.test1 (2)" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="tests.testPOSTBookingCreation (2)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="APIAutomationRestAssured" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Concepts.DDT.AppVWO.*" />
+          <option name="PATTERN" value="SeriallizationAndDeserelization.GSONImplementationTESTCLASS.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Concepts.DDT.AppVWO" />
-      <option name="MAIN_CLASS_NAME" value="Concepts.DDT.AppVWO.AppVWOLoginTests" />
-      <option name="METHOD_NAME" value="test1" />
+      <option name="PACKAGE_NAME" value="SeriallizationAndDeserelization.GSONImplementationTESTCLASS" />
+      <option name="MAIN_CLASS_NAME" value="SeriallizationAndDeserelization.GSONImplementationTESTCLASS.tests" />
+      <option name="METHOD_NAME" value="testPOSTBookingCreation" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -121,17 +102,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AppVWOLoginTests.test1 (3)" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="tests.testPOSTBookingCreation (3)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="APIAutomationRestAssured" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Concepts.DDT.AppVWO.*" />
+          <option name="PATTERN" value="SeriallizationAndDeserelization.GSONImplementationTESTCLASS.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Concepts.DDT.AppVWO" />
-      <option name="MAIN_CLASS_NAME" value="Concepts.DDT.AppVWO.AppVWOLoginTests" />
-      <option name="METHOD_NAME" value="test1" />
+      <option name="PACKAGE_NAME" value="SeriallizationAndDeserelization.GSONImplementationTESTCLASS" />
+      <option name="MAIN_CLASS_NAME" value="SeriallizationAndDeserelization.GSONImplementationTESTCLASS.tests" />
+      <option name="METHOD_NAME" value="testPOSTBookingCreation" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -139,17 +120,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AppVWOLoginTests.test1" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="tests.testPOSTBookingCreation (4)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="APIAutomationRestAssured" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Concepts.DDT.AppVWO.*" />
+          <option name="PATTERN" value="SeriallizationAndDeserelization.GSONImplementationTESTCLASS.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Concepts.DDT.AppVWO" />
-      <option name="MAIN_CLASS_NAME" value="Concepts.DDT.AppVWO.AppVWOLoginTests" />
-      <option name="METHOD_NAME" value="test1" />
+      <option name="PACKAGE_NAME" value="SeriallizationAndDeserelization.GSONImplementationTESTCLASS" />
+      <option name="MAIN_CLASS_NAME" value="SeriallizationAndDeserelization.GSONImplementationTESTCLASS.tests" />
+      <option name="METHOD_NAME" value="testPOSTBookingCreation" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tests.testPOSTBookingCreation" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APIAutomationRestAssured" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SeriallizationAndDeserelization.GSONImplementationTESTCLASS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SeriallizationAndDeserelization.GSONImplementationTESTCLASS" />
+      <option name="MAIN_CLASS_NAME" value="SeriallizationAndDeserelization.GSONImplementationTESTCLASS.tests" />
+      <option name="METHOD_NAME" value="testPOSTBookingCreation" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -159,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.AppVWOLoginTests" />
-        <item itemvalue="TestNG.AppVWOLoginTests.test1" />
-        <item itemvalue="TestNG.AppVWOLoginTests.test1 (3)" />
-        <item itemvalue="TestNG.AppVWOLoginTests.test1 (2)" />
-        <item itemvalue="TestNG.AppVWOLoginTests.test1 (1)" />
+        <item itemvalue="TestNG.tests.testPOSTBookingCreation" />
+        <item itemvalue="TestNG.tests.testPOSTBookingCreation (4)" />
+        <item itemvalue="TestNG.tests.testPOSTBookingCreation (3)" />
+        <item itemvalue="TestNG.tests.testPOSTBookingCreation (2)" />
+        <item itemvalue="TestNG.tests.testPOSTBookingCreation (1)" />
       </list>
     </recent_temporary>
   </component>
