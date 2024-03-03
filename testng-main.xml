@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="/Users/harshalparate/Downloads/API Automation Framework/API TTA1/API-Automation-TTA">
+        <classes>
+            <class name="Concepts.DDT.AppVWO.AppVWOLoginTests">
+                <methods>
+                    <include name="test1"/>
+                </methods>
+            </class>
+<!--            <class name="Concepts.Keywords.grouping">-->
+<!--                <methods>-->
+<!--                    <include name="test4"/>-->
+<!--                </methods>-->
+<!--            </class>-->
+            <class name="Concepts.annotations.Case001">
+                <methods>
+                    <include name="test1"/>
+                </methods>
+            </class>
+            <class name="Concepts.annotations.Case002">
+                <methods>
+                    <include name="test1"/>
+                </methods>
+            </class>
+            <class name="SeriallizationAndDeserelization.GSONImplementationTESTCLASS.tests">
+                <methods>
+                    <include name="testPOSTBookingCreation"/>
+                </methods>
+            </class>
+            <class name="org.example.POST.bookingCreation">
+                <methods>
+                    <include name="createBooking"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
