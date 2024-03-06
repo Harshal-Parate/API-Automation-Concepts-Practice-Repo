@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2e13629f-8871-4062-9f99-f6a5885c6515" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/POST/bookingCreation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/POST/bookingCreation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +52,7 @@
       <recent name="$PROJECT_DIR$/src/test/resources/ConfigData" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG./Users/harshalparate/Downloads/API Automation Framework/API TTA1/API-Automation-TTA/testng-main.xml">
+  <component name="RunManager" selected="TestNG.bookingCreation.createBooking">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="API Automation Rest Assured" />
       <method v="2">
@@ -85,35 +86,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="tests.testPOSTBookingCreation (3)" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="bookingCreation.createBooking" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="APIAutomationRestAssured" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SeriallizationAndDeserelization.GSONImplementationTESTCLASS.*" />
+          <option name="PATTERN" value="org.example.POST.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="SeriallizationAndDeserelization.GSONImplementationTESTCLASS" />
-      <option name="MAIN_CLASS_NAME" value="SeriallizationAndDeserelization.GSONImplementationTESTCLASS.tests" />
-      <option name="METHOD_NAME" value="testPOSTBookingCreation" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="tests.testPOSTBookingCreation (4)" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="APIAutomationRestAssured" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SeriallizationAndDeserelization.GSONImplementationTESTCLASS.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="SeriallizationAndDeserelization.GSONImplementationTESTCLASS" />
-      <option name="MAIN_CLASS_NAME" value="SeriallizationAndDeserelization.GSONImplementationTESTCLASS.tests" />
-      <option name="METHOD_NAME" value="testPOSTBookingCreation" />
+      <option name="PACKAGE_NAME" value="org.example.POST" />
+      <option name="MAIN_CLASS_NAME" value="org.example.POST.bookingCreation" />
+      <option name="METHOD_NAME" value="createBooking" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -139,13 +122,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="tests.testPostReq" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APIAutomationRestAssured" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SeriallizationAndDeserelization.GSONImplementationTESTCLASS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SeriallizationAndDeserelization.GSONImplementationTESTCLASS" />
+      <option name="MAIN_CLASS_NAME" value="SeriallizationAndDeserelization.GSONImplementationTESTCLASS.tests" />
+      <option name="METHOD_NAME" value="testPostReq" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.bookingCreation.createBooking" />
+        <item itemvalue="TestNG.tests.testPostReq" />
         <item itemvalue="TestNG./Users/harshalparate/Downloads/API Automation Framework/API TTA1/API-Automation-TTA/testng-main.xml" />
         <item itemvalue="TestNG.tests.testPOSTBookingCreation" />
         <item itemvalue="TestNG./Users/harshalparate/Downloads/API Automation Framework/API TTA1/API-Automation-TTA/testng-annotations.xml" />
-        <item itemvalue="TestNG.tests.testPOSTBookingCreation (4)" />
-        <item itemvalue="TestNG.tests.testPOSTBookingCreation (3)" />
       </list>
     </recent_temporary>
   </component>
